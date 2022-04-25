@@ -215,7 +215,7 @@ header .header-content .content p {
 
 .about .about-buttons {
     display: block;
-    transform: translateY(30px);
+    transform: translateY(10px);
 }
 
 .about .about-buttons a {
@@ -670,7 +670,7 @@ footer .footer .footer-bottom {
 
 @media (max-width: 768px) {
     .about .col-md-4 {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         text-align: center;
     }
     .about .col-md-4 img {
@@ -689,3 +689,8 @@ footer .footer .footer-bottom {
         margin-bottom: 20px;
     }
 }
+
+
+
+
+
